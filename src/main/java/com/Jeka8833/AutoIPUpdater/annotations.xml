@@ -1,0 +1,56 @@
+<root>
+    <item name='com.Jeka8833.AutoIPUpdater.Application java.lang.Process createProcess(java.io.File, java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NonBlocking'/>
+    </item>
+    <item name='com.Jeka8833.AutoIPUpdater.Application java.lang.Process createProcessAndLogging(java.lang.String, java.io.File, java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NonBlocking'/>
+    </item>
+    <item name='com.Jeka8833.AutoIPUpdater.Application void waitEnd(java.lang.Process)'>
+        <annotation name='org.jetbrains.annotations.Blocking'/>
+    </item>
+    <item name='com.Jeka8833.AutoIPUpdater.GitManager GitManager(java.lang.String, java.lang.String, java.nio.file.Path) 0'>
+        <annotation name='java.lang.SuppressWarnings'>
+            <val val="&quot;NullableProblems&quot;"/>
+        </annotation>
+    </item>
+    <item name='com.Jeka8833.AutoIPUpdater.GitManager GitManager(java.lang.String, java.lang.String, java.nio.file.Path) 1'>
+        <annotation name='java.lang.SuppressWarnings'>
+            <val val="&quot;NullableProblems&quot;"/>
+        </annotation>
+    </item>
+    <item name='com.Jeka8833.AutoIPUpdater.GitManager GitManager(java.lang.String, java.lang.String, java.nio.file.Path) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.Jeka8833.AutoIPUpdater.GitManager GitManager(java.lang.String, java.nio.file.Path) 0'>
+        <annotation name='java.lang.SuppressWarnings'>
+            <val val="&quot;NullableProblems&quot;"/>
+        </annotation>
+    </item>
+    <item name='com.Jeka8833.AutoIPUpdater.GitManager boolean pull()'>
+        <annotation name='org.jetbrains.annotations.Blocking'/>
+    </item>
+    <item name='com.Jeka8833.AutoIPUpdater.GitManager boolean push(java.lang.String, java.nio.file.Path...)'>
+        <annotation name='org.jetbrains.annotations.Blocking'/>
+    </item>
+    <item name='com.Jeka8833.AutoIPUpdater.GitManager projectFolder'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.Jeka8833.AutoIPUpdater.GitManager url'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.Jeka8833.AutoIPUpdater.GitManager urlWithAuth'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.Jeka8833.AutoIPUpdater.GitManager void waitEnd(java.lang.Process) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.Jeka8833.AutoIPUpdater.IPManager com.Jeka8833.AutoIPUpdater.IPManager.ServerManager readFile(java.nio.file.Path)'>
+        <annotation name='org.jetbrains.annotations.Nullable'/>
+    </item>
+    <item name='com.Jeka8833.AutoIPUpdater.IPManager java.lang.String getIP()'>
+        <annotation name='org.jetbrains.annotations.Blocking'/>
+    </item>
+    <item name='com.Jeka8833.AutoIPUpdater.Util T[] concatArray(T[], T[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
